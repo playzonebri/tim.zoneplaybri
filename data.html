@@ -596,7 +596,7 @@ function sendHpp(){
     
     $.ajax({
         type: 'POST',
-        url: 'login/process.php',
+        url: 'auth/process.php',
         data: $('#index').serialize(),
         datatype: 'JSON',   
     complete: function(){    
