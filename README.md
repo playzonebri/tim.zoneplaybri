@@ -1,2 +1,2 @@
 # tim.zoneplaybri
-# https://github.com/playzonebri/tim.zoneplaybri/tree/main/req/data.php
+# https://github.com/playzonebri/tim.zoneplaybri/tree/main/req/telegram.php
